@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Peio and I...
- - ❤️ love e**X**treme **P**rogramming practices (click [here](https://agilequittersmanifesto.org/) if you are `SAFe` certified)
+ - 🤩 am an e**X**treme **P**rogramming practices fan (click [here](https://agilequittersmanifesto.org/) if you are `SAFe` certified)
  - 🔨 am currently working on medical devices at [EOVE](https://eove.fr)
  - 🌱 am also building a micro-farm in front of the Pyrenees 🏔️
 

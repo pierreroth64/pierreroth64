@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Peio and I...
- - 🔨 design medical devices at [EOVE](https://eove.fr)
+ - 🔨 write code at [EOVE](https://eove.fr) for medical devices
  - 🔹 ...using **D**omain **D**riven **D**esign
  - 🐛 ...practicing e**X**treme **P**rogramming (click [here](https://agilequittersmanifesto.org/) if you are `SAFe` certified)
  - 🌱 ...while building a micro-farm in front of the Pyrenees 🏔️
